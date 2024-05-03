@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.nav-contents-cont {
+  padding: 12px;
+  display: flex;
+}
+.nav-content {
+  margin-left: 12px;
+  font-size: large;
+  text-decoration: none;
+}
+.nav-bar {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  display: flex;
+  font-size: larger;
+}
+.logo h1 {
+  margin-left: 12px;
+}
+.route-link {
+  list-style-type: none;
+}
